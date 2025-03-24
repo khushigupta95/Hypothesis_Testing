@@ -10,7 +10,7 @@ This project is an end-to-end guide to **Hypothesis Testing**, a fundamental con
 - Perform **Hypothesis Testing using Python** (or Excel, if applicable)
 
 ## 🛠️ Tools & Libraries
-- **Python** (Jupyter Notebook / Google Colab)
+- **Python** (Jupyter Notebook )
 - **Libraries:** `pandas`, `numpy`, `scipy.stats`, `matplotlib`, `seaborn`
 
 
