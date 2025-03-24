@@ -13,16 +13,15 @@ This project is an end-to-end guide to **Hypothesis Testing**, a fundamental con
 - **Python** (Jupyter Notebook )
 - **Libraries:** `pandas`, `numpy`, `scipy.stats`, `matplotlib`, `seaborn`
 
-
-## 📂 Project Structure
-```
-📂 Hypothesis_Testing
 │── 📄## 📥 Dataset
 You can download the dataset from the following link:
 [NYC Taxi Data - January 2020](https://data.world/vizwiz/nyc-taxi-jan-2020/workspace/file?filename=yellow_tripdata_2020-01.csv) # Raw dataset
-│── 📄 hypothesis_testing.ipynb  # Jupyter Notebook with step-by-step guide
+
+│── 📄-<a href="https://github.com/khushigupta95/Hypothesis_Testing/blob/main/MaximizingRevenue.ipynb">Jupyter Notebook</a> # Jupyter Notebook with step-by-step guide
 
 
+## 📂 Project Structure
+```
 ## 📖 Step-by-Step Guide
 ### 1️⃣ Define the Hypothesis
 - **Null Hypothesis (H₀):** Statement assuming no effect or difference (e.g., "There is no difference beacause of payment method")
