@@ -17,7 +17,9 @@ This project is an end-to-end guide to **Hypothesis Testing**, a fundamental con
 ## 📂 Project Structure
 ```
 📂 Hypothesis_Testing
-│── 📄 dataset.csv              # Raw dataset
+│── 📄## 📥 Dataset
+You can download the dataset from the following link:
+[NYC Taxi Data - January 2020](https://data.world/vizwiz/nyc-taxi-jan-2020/workspace/file?filename=yellow_tripdata_2020-01.csv) # Raw dataset
 │── 📄 hypothesis_testing.ipynb  # Jupyter Notebook with step-by-step guide
 
 
